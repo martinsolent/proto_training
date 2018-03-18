@@ -4,7 +4,7 @@
 
 [Sign-up for Invision App Link](http://www.invisionapp.com/education-signup) 
 
-[Sign up for Marvel App Link] (https://marvelapp.com/)
+[Sign up for Marvel App Link](https://marvelapp.com/)
 
 [Get Marvel App for iOS & Android](https://marvelapp.com/apps/)
 
