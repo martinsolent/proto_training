@@ -69,3 +69,6 @@ A minimum viable product (MVP) is the absolute bare minimum in a delightful expe
 ## User testing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ml92QEqE-RQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" style="letter-spacing: 0.45px;"></iframe>
+
+## 5 Day Design Sprint
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K2vSQPh6MCE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
