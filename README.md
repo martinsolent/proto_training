@@ -2,6 +2,10 @@
 
 ## Software & Resources 
 
+[Adobe Experience Design](https://www.adobe.com/uk/products/xd.html#x)
+
+[sketchapp](https://www.sketchapp.com/)
+
 [Sign-up for Invision App Link](http://www.invisionapp.com/education-signup) We have a code to for this - sign-up with your uni email.
 
 [Sign up for Marvel App Link](https://marvelapp.com/)
