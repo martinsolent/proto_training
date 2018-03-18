@@ -2,7 +2,7 @@
 
 ## Software & Resources 
 
-[Sign-up for Invision App Link](http://www.invisionapp.com/education-signup) 
+[Sign-up for Invision App Link](http://www.invisionapp.com/education-signup) We have a code to for this - sign-up with your uni email.
 
 [Sign up for Marvel App Link](https://marvelapp.com/)
 
@@ -50,6 +50,9 @@ OR use this one [Indeux Fashion Store (Sketch App)] (https://www.sketchappsource
 
 ### Marvel App Tutorials
  <iframe width="560" height="315" src="https://www.youtube.com/embed/fGxrd3ocGts" frameborder="0" allowfullscreen=""></iframe>
+
+### Adobe Experience Design (XD) part of Adobe Creative Cloud
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rOTMqdZGxtg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  
 ## Guerilla Testing with Usability Cafe
 Surprisingly, up to 85% of core usability problems can be found by observing just 5 people using your application. Conducting quick usability tests at a cafe is very effective, cheap, and doesn't require any special tools.
@@ -62,3 +65,7 @@ A minimum viable product (MVP) is the absolute bare minimum in a delightful expe
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mz5ivYoI-MU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" style="letter-spacing: 0.45px;"></iframe>
 
 [Find out more about MVP ay IBM](https://www.ibm.com/cloud/garage/content/think/practice_minimum_viable_product/)
+
+## User testing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ml92QEqE-RQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" style="letter-spacing: 0.45px;"></iframe>
