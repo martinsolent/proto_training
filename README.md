@@ -51,6 +51,15 @@ We have a code to for this - sign-up with your uni email.
 
 
 
+### Marvel App
+
+***Design anything, anywhere.***
+
+*Create beautiful wireframes, mockups, website or app prototypes for any device right from your browser.*
+
+*Sync your designs from Sketch and Photoshop or build mockups directly within our design tool where you'll find millions of assets, stock photos and icons at your fingertips.* 
+Learn more](https://marvelapp.com/features/design)
+
 Sign up for Marvel App Link](https://marvelapp.com/)
 
 [Get Marvel App for iOS & Android](https://marvelapp.com/apps/)
@@ -79,7 +88,7 @@ Sign up for Marvel App Link](https://marvelapp.com/)
 
 ### XD Guru
 
-*XDGuru is the best place to find free and premium UI resources for Adobe XD: UI kits, website templates, icon sets, wireframing kits, device mockups, .. and a wide range of XD freebies in general. We publish tutorials, guides and design related articles which will hopefully help you become a better UI/UX designer. We want to help the XD community grow by giving visibility to designers using this amazing (although not yet perfect) tool, which are willing to share their design work.""
+*XDGuru is the best place to find free and premium UI resources for Adobe XD: UI kits, website templates, icon sets, wireframing kits, device mockups, .. and a wide range of XD freebies in general. We publish tutorials, guides and design related articles which will hopefully help you become a better UI/UX designer. We want to help the XD community grow by giving visibility to designers using this amazing (although not yet perfect) tool, which are willing to share their design work."*
 
 [xdguru.com](https://www.xdguru.com/)
 
@@ -87,7 +96,7 @@ Sign up for Marvel App Link](https://marvelapp.com/)
 
 ### XD Resources
 
-**XD resources provides you with free design resources for Adobe Experience Design. We create and curate resources to make designing and prototyping faster and more enjoyable for you.*
+*XD resources provides you with free design resources for Adobe Experience Design. We create and curate resources to make designing and prototyping faster and more enjoyable for you.*
 
 *All resources created and hosted by xdresources.co can be used for free. You can use them for commercial and noncommercial purposes. You do not need to ask permission from or provide credit, although it is appreciated when possible. Although we look for free to use resources, you should check the license of those not made nor hosted by us.*
 
