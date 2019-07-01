@@ -134,9 +134,7 @@ Traditionally designers had used either used [commission photographs](http://www
 
 There are also [Creative Commons ](https://creativecommons.org/)or [Public Domain](https://fairuse.stanford.edu/overview/public-domain/welcome/) images that can be used free or with some restrictions such as have a link base to the author.
 
-
-
-
+<!-- 
 
 ## Design Activities
 
@@ -162,34 +160,29 @@ OR use this one [Indeux Fashion Store (Sketch App)] (https://www.sketchappsource
 
 ### Sketch App File Screens:
 
-![Sketch App File Screens](repo_assets/img3.png)
+![Sketch App File Screens](repo_assets/img3.png) 
 
-
+-->
 
 ## Video Tutorials
 
 ### Sketch App Tutorials
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oJB3tvH-LB4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ### Invision App Tutorial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/enzPiPj-E14" frameborder="0" allowfullscreen=""></iframe>
-
 ### Marvel App Tutorials
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/fGxrd3ocGts" frameborder="0" allowfullscreen=""></iframe>
-
 ### Adobe Experience Design (XD) part of Adobe Creative Cloud
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rOTMqdZGxtg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ### Guerilla Testing with Usability Cafe
 
 Surprisingly, up to 85% of core usability problems can be found by observing just 5 people using your application. Conducting quick usability tests at a cafe is very effective, cheap, and doesn't require any special tools.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0YL0xoSmyZI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" style="letter-spacing: 0.45px;"></iframe>
-
 ### User testing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ml92QEqE-RQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" style="letter-spacing: 0.45px;"></iframe>
