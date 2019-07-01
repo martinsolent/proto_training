@@ -4,7 +4,7 @@
 
 
 
-## Software & Resources 
+## 1. Software & Resources 
 
 ### Adobe Experience Design (Xd)
 
@@ -66,7 +66,7 @@ Sign up for Marvel App Link](https://marvelapp.com/)
 
 
 
-## FREE Prototyping Assets
+## 2. FREE Prototyping Assets
 
 ### Sketch App Sources
 
@@ -164,7 +164,7 @@ OR use this one [Indeux Fashion Store (Sketch App)] (https://www.sketchappsource
 
 -->
 
-## Video Tutorials
+## 3. Video Tutorials
 
 ### Sketch App Tutorials
 
