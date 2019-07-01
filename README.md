@@ -134,6 +134,10 @@ Traditionally designers had used either used [commission photographs](http://www
 
 There are also [Creative Commons ](https://creativecommons.org/)or [Public Domain](https://fairuse.stanford.edu/overview/public-domain/welcome/) images that can be used free or with some restrictions such as have a link base to the author.
 
+[Copyright - How to stay within the law](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b781a08b-7f77-498d-b323-4e7fcc93e4bc) 
+
+[Copyright, sourcing, selecting and using photographic images.](https://martinsolent.github.io/copyright/copyright2016_v2/)
+
 <!-- 
 
 ## Design Activities
@@ -166,9 +170,15 @@ OR use this one [Indeux Fashion Store (Sketch App)] (https://www.sketchappsource
 
 ## 3. Video Tutorials
 
+### Scaling images (Adobe PhotoShop CC)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S_YFUqhKjdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Sketch App Tutorials
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oJB3tvH-LB4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+###  3D Mobile UI design concept using Adobe Illustrator CC
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3MQT17k2LyI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Invision App Tutorial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/enzPiPj-E14" frameborder="0" allowfullscreen=""></iframe>
@@ -190,3 +200,42 @@ Surprisingly, up to 85% of core usability problems can be found by observing jus
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K2vSQPh6MCE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ### Design & Copyright - CharlieMarieTV
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K8P12a84msg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Design YouTube Channels
+
+[Figma](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA)
+
+[Dansky](https://www.youtube.com/channel/UCAbq1eKey19tt-FfaIO1RMA)
+
+[Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
+
+[DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+
+[Maex](https://www.youtube.com/channel/UCSdp5logiFTM3SyLJrHabOQ)
+
+[Vaclav Krejci](https://www.youtube.com/user/krejcivaclav/videos)
+
+[High Resolution](https://www.youtube.com/channel/UCzBkNPSxw15qrW_Y8p-oCUw/featured)
+
+[The Futu](https://www.youtube.com/user/TheSkoolRocks)
+
+[CharliMarieTV](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
+
+
+
+### Design Instagram
+
+[Futur](https://www.instagram.com/thefuturishere/)
+
+[George Bokhua](https://www.instagram.com/george_bokhua/)
+
+[Logo Learn](https://www.instagram.com/logolearn/)
+
+[Logo Theke](https://www.instagram.com/logotheke/)
+
+[Hey James Design](https://www.instagram.com/heyjames.design/)
+
+[UI design Inspiration](https://www.instagram.com/ui.design.inspiration/)
+
+[devjdelasen](https://www.instagram.com/devjdelasen/)
+
+[Tubik Studio](https://www.instagram.com/tubikstudio/)
